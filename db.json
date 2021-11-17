@@ -1,0 +1,13 @@
+{
+  "FireAds" : {
+    "AdsNet" : "Admob",
+    "AdsNm" : 1,
+    "Admob_1" : {
+    "Test Photo Editor" : {
+        "Ban" : "ca-app-pub-3940256099942544/6300978111",
+        "Inter" : "ca-app-pub-3940256099942544/1033173712"
+      },
+      "PubId" : "pub-3940256099942544"
+    }
+  }
+}
