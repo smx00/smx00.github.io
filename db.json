@@ -1,6 +1,6 @@
 {
-    "AdsNet" : "StarApp",
-    "AdsNm" : 1,
+    "AdsNet" : "Admob,StarApp",
+    "AdsNm" : "1,1",
     "Admob_1" : {
     "Test Photo Editor" : {
         "Ban" : "ca-app-pub-3940256099942544/6300978111",
