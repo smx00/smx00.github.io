@@ -13,8 +13,7 @@
 <table class="table table-striped">
     <tr  class="bg-info">
         <th>Ads Network</th>
-        <th>Pub ID</th>
-        <th>APP Number</th>
+        <th>Pub N</th>
     </tr>
 
     <tbody id="myTable">
@@ -41,11 +40,11 @@
 	function buildTable(data){
 		var table = document.getElementById('myTable')
 
-		for (var i = 0; i < data.length; i++){
+		for (var i = 0; i < 2; i++){
 			var row = `<tr>
-							<td>${data[i].Admob_1}</td>
-							<td>${data[i].last_name}</td>
-							<td>${data[i].email}</td>
+							<td>${data[i].AdsNet}</td>
+							<td>${data[i].AdsNm}</td>
+						
 					  </tr>`
 			table.innerHTML += row
 
