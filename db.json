@@ -1,6 +1,7 @@
 {
     
     "Ads": [
+        {
     "Admob" : {
     "Test Photo Editor" : {
         "Ban" : "ca-app-pub-3940256099942544/6300978111",
@@ -8,14 +9,17 @@
       },
       "PubId" : "pub-3940256099942544"
     },  
-        
+        }
+        {
     "StarApp" : {
     "Test Photo Editor" : {
         "AppId" : "210998863"
       },
       "DevId" : "pub-3940256099942544"
     },
-        
+
+    }
+    {   
     "Facebook" : {
     "Test Photo Editor" : {
         "Ban" : "YOUR_PLACEMENT_ID",
@@ -23,6 +27,6 @@
       },
       "DevId" : "pub-3940256099942544"
     }
-        
+    } 
     ]
 }
