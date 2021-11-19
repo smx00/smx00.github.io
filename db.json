@@ -2,31 +2,28 @@
     
     "Ads": [
         {
-    "Admob" : {
-    "Test Photo Editor" : {
+      "Network" : "Admob"     
+      "PubId" : "pub-3940256099942544"
+       "Test Photo Editor" : {
         "Ban" : "ca-app-pub-3940256099942544/6300978111",
         "Inter" : "ca-app-pub-3940256099942544/1033173712"
-      },
-      "PubId" : "pub-3940256099942544"
-    }
-        }
+            }
+        },
         {
-    "StarApp" : {
-    "Test Photo Editor" : {
+      "Network" : "StarApp"   
+      "PubId" : "pub-3940256099942544"	  
+      "Test Photo Editor" : {
         "AppId" : "210998863"
       },
       "DevId" : "pub-3940256099942544"
-    }
-
-    }
-    {   
-    "Facebook" : {
-    "Test Photo Editor" : {
-        "Ban" : "YOUR_PLACEMENT_ID",
-        "Inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-      },
-      "DevId" : "pub-3940256099942544"
-    }
-    } 
+       }
+       {   
+	     "Network" : "Facebook"   
+         "PubId" : "pub-3940256099942544"	 
+         "Test Photo Editor" : {
+             "Ban" : "YOUR_PLACEMENT_ID",
+             "Inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+              }
+       } 
     ]
 }
