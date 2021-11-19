@@ -29,7 +29,7 @@
 		method:'GET',
 		url:'https://smx00.github.io/db.json',
 		success:function(response){
-			myArray = response.data
+			myArray = response.Admob_1
 			buildTable(myArray)
 			console.log(myArray)
 		}
@@ -37,19 +37,17 @@
 
 
 
-	function buildTable(data){
+	function buildTable(response){
 		var table = document.getElementById('myTable')
-
-		for (var i = 0; i < 2; i++){
-			var row = `<tr>
-							<td>${data[i].AdsNet}</td>
-							<td>${data[i].AdsNm}</td>
+                var row = `<tr>
+		<td>${data[i].response.AdsNet}</td>
+		<td>${data[i].response.AdsNm}</td>
 						
-					  </tr>`
-			table.innerHTML += row
+		 </tr>`
+		table.innerHTML += row
 
 
-		}
+		
 	}
 
 </script>
