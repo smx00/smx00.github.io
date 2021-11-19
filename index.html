@@ -12,9 +12,9 @@
 
 <table class="table table-striped">
     <tr  class="bg-info">
-        <th>First</th>
-        <th>Last</th>
-        <th>Email</th>
+        <th>Ads Network</th>
+        <th>Pub ID</th>
+        <th>APP Number</th>
     </tr>
 
     <tbody id="myTable">
@@ -28,7 +28,7 @@
 
 	$.ajax({
 		method:'GET',
-		url:'https://reqres.in/api/users',
+		url:'https://smx00.github.io/db.json',
 		success:function(response){
 			myArray = response.data
 			buildTable(myArray)
