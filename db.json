@@ -20,8 +20,7 @@
       "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
-        "Ban" : "ca-app-pub-3940256099942544/6300978111",
-        "Inter" : "ca-app-pub-3940256099942544/1033173712"
+        "AppId" : "210998863",
               }
         ]
        },
