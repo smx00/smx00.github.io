@@ -35,17 +35,6 @@
          "Inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
               }
         ]
-       },
-        {
-      "Network" : "UnityAds"   , 
-      "PubId" : "pub-3940256099942544"	,  
-      "NetworkStats" : "Enable" ,        
-      "Apps" : [     
-             {
-        "PackageName" : "com.photoeditor.v1.test",     
-        "AppId" : "1234567"
-              }
-        ]
        }
     ]
 }
