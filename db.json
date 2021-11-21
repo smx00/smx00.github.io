@@ -28,7 +28,7 @@
         {
       "Network" : "StarApp"   , 
       "PubId" : "pub-3940256099942544"	,  
-      "NetworkStats" : "Enable" ,        
+      "NetworkStats" : "Disable" ,        
       "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
@@ -39,7 +39,7 @@
        {   
        "Network" : "Facebook",   
        "PubId" : "pub-3940256099942544",
-       "NetworkStats" : "Enable" ,      
+       "NetworkStats" : "Disable" ,      
        "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
@@ -51,7 +51,7 @@
        {   
        "Network" : "UnityAds",   
        "PubId" : "pub-3940256099942544",
-       "NetworkStats" : "Enable" ,      
+       "NetworkStats" : "Disable" ,      
        "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
