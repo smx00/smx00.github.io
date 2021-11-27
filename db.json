@@ -26,6 +26,10 @@
              {
         "PackageName" : "com.photoeditor.v1.test",     
         "AppId" : "210998863"
+              },
+          {
+        "PackageName" : "com.miyzostudio.editor",     
+        "AppId" : "210998863"
               }
         ]
        },
