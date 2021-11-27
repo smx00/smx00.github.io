@@ -25,6 +25,11 @@
         "PackageName" : "com.miyzostudio.photoframe",     
         "Ban" : "ca-app-pub-3940256099942544/6300978111",
         "Inter" : "ca-app-pub-3940256099942544/1033173712"
+              },
+          {
+        "PackageName" : "com.miyzostudio.photomontage",     
+        "Ban" : "ca-app-pub-3940256099942544/6300978111",
+        "Inter" : "ca-app-pub-3940256099942544/1033173712"
               }
         ]
         }
