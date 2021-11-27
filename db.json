@@ -21,7 +21,7 @@
         {
       "Network" : "StarApp"   , 
       "PubId" : "pub-3940256099942544"	,  
-      "NetworkStats" : "Disable" ,        
+      "NetworkStats" : "Enable" ,        
       "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
