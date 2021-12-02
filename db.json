@@ -53,7 +53,7 @@
        {   
        "Network" : "UnityAds",   
        "PubId" : "11270007141778",
-       "NetworkStats" : "Disable" ,      
+       "NetworkStats" : "Enable" ,      
        "Apps" : [     
              {
         "PackageName" : "com.photoeditor.v1.test",     
