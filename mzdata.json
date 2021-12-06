@@ -158,6 +158,11 @@
           "Inter": "ca-app-pub-5982703025841592/1222869214"
         },
         {
+          "PackageName": "com.miyzostudio.squid.game.face.swap.changer",
+          "Ban": "0000",
+          "Inter": "0000"
+        },
+        {
           "PackageName": "com.miyzostudio.squid.game.mask.photoeditor",
           "Ban": "ca-app-pub-5982703025841592/5162114226",
           "Inter": "ca-app-pub-5982703025841592/1222869214"
@@ -196,6 +201,41 @@
           "PackageName": "com.miyzostudio.CostumeNinjaMask.photoeditor",
           "Ban": "ca-app-pub-5982703025841592/9835856402",
           "Inter": "ca-app-pub-5982703025841592/7468697454"
+        },
+		    {
+          "PackageName": "com.miyzostudio.Royal.PhotoFrames.Luxury.PhotoEditor",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.happybirthday.photoframe.wishescards",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.photo.birthday.cake.frame.editor",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.baby.photo.frame.editor",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.mensuitphotomontage.cv.suit.photoeditor",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.Couple.photo.frame.Romantic.love",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
+        },
+		    {
+          "PackageName": "com.miyzostudio.babyphotomontage.editor",
+          "Ban": "ca-app-pub-5982703025841592/5162114226",
+          "Inter": "ca-app-pub-5982703025841592/1222869214"
         }
       ]
     },
