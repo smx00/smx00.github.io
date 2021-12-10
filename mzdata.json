@@ -197,38 +197,53 @@
           "Ban": "ca-app-pub-9655454484554772/3708303240",
           "Inter": "ca-app-pub-9655454484554772/5231285034"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.Royal.PhotoFrames.Luxury.PhotoEditor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.happybirthday.photoframe.wishescards",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.photo.birthday.cake.frame.editor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.baby.photo.frame.editor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.mensuitphotomontage.cv.suit.photoeditor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.Couple.photo.frame.Romantic.love",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         },
-		    {
+		{
           "PackageName": "com.miyzostudio.babyphotomontage.editor",
+          "Ban": "ca-app-pub-9655454484554772/5672985249",
+          "Inter": "ca-app-pub-9655454484554772/2110297671"
+        },
+		{
+          "PackageName": "com.miyzostudio.profilepicture.border.frame.dpmaker.circle.profileborder",
+          "Ban": "ca-app-pub-9655454484554772/5672985249",
+          "Inter": "ca-app-pub-9655454484554772/2110297671"
+        },
+		{
+          "PackageName": "com.miyzostudio.makemeold.faceage.photoeditor",
+          "Ban": "ca-app-pub-9655454484554772/5672985249",
+          "Inter": "ca-app-pub-9655454484554772/2110297671"
+        },
+		{
+          "PackageName": "com.miyzostudio.ThreeD.PhotoFrame.wallpaper.Effect.PhotoEditor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
         }
