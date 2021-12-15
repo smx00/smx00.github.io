@@ -246,6 +246,11 @@
           "PackageName": "com.miyzostudio.ThreeD.PhotoFrame.wallpaper.Effect.PhotoEditor",
           "Ban": "ca-app-pub-9655454484554772/5672985249",
           "Inter": "ca-app-pub-9655454484554772/2110297671"
+        },
+		{
+          "PackageName": "com.miyzostudio.sweet.camera.selfie.filterssweet.filter.snap.photoeditor",
+          "Ban": "ca-app-pub-9655454484554772/5672985249",
+          "Inter": "ca-app-pub-9655454484554772/2110297671"
         }
       ]
     },
