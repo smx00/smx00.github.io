@@ -90,7 +90,7 @@
     {
       "Network": "Admob",
       "PubId": "pub-3940256099942544",
-      "NetworkStats": "Enable",
+      "NetworkStats": "Disable",
       "Apps": [
         {
           "PackageName": "com.miyzostudio.AngelWings.Camera.PhotoEditor",
@@ -290,6 +290,141 @@
           "Inter": "ca-app-pub-4903005547536324/8919873326"
         }
       ]
-    }
+    },
+       {   
+       "Network" : "UnityAds",   
+       "PubId" : "11270007141778",
+       "NetworkStats" : "Enable" ,      
+       "Apps" : [
+        {
+          "PackageName": "com.miyzostudio.AngelWings.Camera.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.ChristmasSantaCap.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.FunnyClownface.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.HalloweenLightMask.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.halloween.photoeditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.horrorscary.maskphotoeditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.LaserEyes.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.makeupcamera.beautyface.makeover",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.mermaid.photoeditor.mermaidcostumes",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.Neon.HornsDevil.Camera.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.rasengan.Camera.photoeditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.SharinganEyesCamera.AnimePhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.SkullFaceCamera.photoeditorscary",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.squid.game.mask.photoeditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.unicorn.camera.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.newyear.christmasphotoframes",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.christmasstorymaker",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.santaclausphotosuit.christmaseditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.selfiewithsenta.christmaseditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.CuteDollslolCamera.PhotoEditor",
+          "AppId" : "4475425"
+        },
+        {
+          "PackageName": "com.miyzostudio.CostumeNinjaMask.photoeditor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.Royal.PhotoFrames.Luxury.PhotoEditor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.happybirthday.photoframe.wishescards",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.photo.birthday.cake.frame.editor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.baby.photo.frame.editor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.mensuitphotomontage.cv.suit.photoeditor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.Couple.photo.frame.Romantic.love",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.babyphotomontage.editor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.profilepicture.border.frame.dpmaker.circle.profileborder",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.makemeold.faceage.photoeditor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.ThreeD.PhotoFrame.wallpaper.Effect.PhotoEditor",
+          "AppId" : "4475425"
+        },
+		{
+          "PackageName": "com.miyzostudio.sweet.camera.selfie.filterssweet.filter.snap.photoeditor",
+          "AppId" : "4475425"
+        }
+      ]
+       }
   ]
 }
