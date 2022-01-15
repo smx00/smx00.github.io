@@ -34,6 +34,41 @@
           "PackageName": "com.mzpiceditor.babyphotomontage.Editor",
           "Ban": "ca-app-pub-1784635347871836/3765578593",
           "Inter": "ca-app-pub-1784635347871836/8297024006"
+        },
+        {
+          "PackageName": "com.mzpiceditor.emojicamera.sweetemoji3d",
+          "Ban": "ca-app-pub-4903005547536324/2648510801",
+          "Inter": "ca-app-pub-4903005547536324/6396184123"
+        },
+        {
+          "PackageName": "com.mzpiceditor.profilephotoedit.dpborderpriofilephoto",
+          "Ban": "ca-app-pub-4903005547536324/3331037085",
+          "Inter": "ca-app-pub-4903005547536324/8391792075"
+        },
+        {
+          "PackageName": "com.mzpiceditor.eyeslaser.photoeditor.cryptomeme",
+          "Ban": "ca-app-pub-4903005547536324/4863432999",
+          "Inter": "ca-app-pub-4903005547536324/7298024643"
+        },
+        {
+          "PackageName": "com.mzpiceditor.rasengancamera.anime.photoeditor",
+          "Ban": "ca-app-pub-4903005547536324/7777370946",
+          "Inter": "ca-app-pub-4903005547536324/1641523228"
+        },
+        {
+          "PackageName": "com.mzpiceditor.smoke.effect.camera.photoeditor",
+          "Ban": "ca-app-pub-4903005547536324/7202655872",
+          "Inter": "ca-app-pub-4903005547536324/3263410866"
+        },
+        {
+          "PackageName": "com.mzpiceditor.sharinganeyescamera.anime.photoeditor",
+          "Ban": "ca-app-pub-4903005547536324/5430586814",
+          "Inter": "ca-app-pub-4903005547536324/3309828115"
+        },
+        {
+          "PackageName": "com.mzpiceditor.superhero.camera.costume.superpower.photoeditor",
+          "Ban": "ca-app-pub-4903005547536324/2429374177",
+          "Inter": "ca-app-pub-4903005547536324/4204107382"
         }
       ]
     },
