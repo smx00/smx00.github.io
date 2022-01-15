@@ -3,87 +3,37 @@
     {
       "Network": "Admob",
       "PubId": "pub-3940256099942544",
-      "NetworkStats": "Disable",
+      "NetworkStats": "Enable",
       "Apps": [
         {
-          "PackageName": "com.miyzostudio.AngelWings.Camera.PhotoEditor",
+          "PackageName": "com.mzpiceditor.cagoulemask.ghostface.photoeditor",
           "Ban": "ca-app-pub-1784635347871836/4494963064",
           "Inter": "ca-app-pub-1784635347871836/3834803307"
         },
         {
-          "PackageName": "com.miyzostudio.ChristmasSantaCap.PhotoEditor",
+          "PackageName": "com.mzpiceditor.Braces.Teeth.Camera.PhotoEditor",
           "Ban": "ca-app-pub-1784635347871836/2317939011",
           "Inter": "ca-app-pub-1784635347871836/7458585051"
         },
         {
-          "PackageName": "com.miyzostudio.FunnyClownface.PhotoEditor",
+          "PackageName": "com.mzpiceditor.Blush.RedCheeks.Shy.face.Photoeditor",
           "Ban": "ca-app-pub-1784635347871836/8388786675",
           "Inter": "ca-app-pub-1784635347871836/3734214037"
         },
         {
-          "PackageName": "com.miyzostudio.HalloweenLightMask.PhotoEditor",
+          "PackageName": "com.mzpiceditor.filter.selfie.sweet.snap.face.camera",
           "Ban": "ca-app-pub-1784635347871836/4932494064",
           "Inter": "ca-app-pub-1784635347871836/3929052514"
         },
         {
-          "PackageName": "com.miyzostudio.halloween.photoeditor",
+          "PackageName": "com.mzpiceditor.costumeninja.superherophotoeditor",
           "Ban": "ca-app-pub-1784635347871836/7515684555",
           "Inter": "ca-app-pub-1784635347871836/4915240245"
         },
         {
-          "PackageName": "com.miyzostudio.horrorscary.maskphotoeditor",
+          "PackageName": "com.mzpiceditor.babyphotomontage.Editor",
           "Ban": "ca-app-pub-1784635347871836/3765578593",
           "Inter": "ca-app-pub-1784635347871836/8297024006"
-        },
-        {
-          "PackageName": "com.miyzostudio.LaserEyes.PhotoEditor",
-          "Ban": "ca-app-pub-1784635347871836/5386685986",
-          "Inter": "ca-app-pub-1784635347871836/3171586185"
-        },
-        {
-          "PackageName": "com.miyzostudio.makeupcamera.beautyface.makeover",
-          "Ban": "ca-app-pub-1784635347871836/3965758684",
-          "Inter": "ca-app-pub-1784635347871836/4957059114"
-        },
-        {
-          "PackageName": "com.miyzostudio.mermaid.photoeditor.mermaidcostumes",
-          "Ban": "ca-app-pub-1784635347871836/9628101758",
-          "Inter": "ca-app-pub-1784635347871836/2000893171"
-        },
-        {
-          "PackageName": "com.miyzostudio.Neon.HornsDevil.Camera.PhotoEditor",
-          "Ban": "ca-app-pub-1784635347871836/3705637330",
-          "Inter": "ca-app-pub-1784635347871836/6678273270"
-        },
-        {
-          "PackageName": "com.miyzostudio.rasengan.Camera.photoeditor",
-          "Ban": "ca-app-pub-1784635347871836/3514297158",
-          "Inter": "ca-app-pub-1784635347871836/2629764359"
-        },
-        {
-          "PackageName": "com.miyzostudio.SharinganEyesCamera.AnimePhotoEditor",
-          "Ban": "ca-app-pub-1784635347871836/5461626030",
-          "Inter": "ca-app-pub-1784635347871836/3679122145"
-        },
-        {
-          "PackageName": "com.miyzostudio.SkullFaceCamera.photoeditorscary",
-          "Ban": "ca-app-pub-1784635347871836/9873258737",
-          "Inter": "ca-app-pub-1784635347871836/6302852847"
-        },
-        {
-          "PackageName": "com.miyzostudio.squid.game.face.swap.changer",
-          "Ban": "0000",
-          "Inter": "0000"
-        },
-        {
-          "PackageName": "com.miyzostudio.squid.game.mask.photoeditor",
-          "Ban": "ca-app-pub-1784635347871836/8187434093",
-          "Inter": "ca-app-pub-1784635347871836/4248189089"
-        },
-        {
-          "PackageName": "com.miyzostudio.unicorn.camera.PhotoEditor",
-          "Ban": "ca-app-pub-1784635347871836/4454670273",
-          "Inter": "ca-app-pub-1784635347871836/6641849911"
         }
       ]
     },
