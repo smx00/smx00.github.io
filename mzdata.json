@@ -69,6 +69,36 @@
           "PackageName": "com.mzpiceditor.superhero.camera.costume.superpower.photoeditor",
           "Ban": "ca-app-pub-4903005547536324/2429374177",
           "Inter": "ca-app-pub-4903005547536324/4204107382"
+        },
+        {
+          "PackageName": "com.mzpiceditor.happy.birthday.photo.frames",
+          "Ban": "ca-app-pub-4903005547536324/2301736885",
+          "Inter": "ca-app-pub-4903005547536324/8675573543"
+        },
+        {
+          "PackageName": "com.mzpiceditor.GlitterSparkle.PhotoFrames.Effects",
+          "Ban": "ca-app-pub-4903005547536324/1164409873",
+          "Inter": "ca-app-pub-4903005547536324/5786181164"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Eyesmask.Beauty.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/9150711106",
+          "Inter": "ca-app-pub-4903005547536324/2094348166"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Christmas.SantaCap.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/3152278964",
+          "Inter": "ca-app-pub-4903005547536324/5503110137"
+        },
+        {
+          "PackageName": "com.mzpiceditor.ChinesePrincess.Kids.PhotoMontage.Editor",
+          "Ban": "ca-app-pub-4903005547536324/3666256618",
+          "Inter": "ca-app-pub-4903005547536324/1040093277"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Censored.Stickers.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/4431068594",
+          "Inter": "ca-app-pub-4903005547536324/1750539714"
         }
       ]
     },
