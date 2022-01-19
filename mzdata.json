@@ -99,6 +99,66 @@
           "PackageName": "com.mzpiceditor.Censored.Stickers.PhotoEditor",
           "Ban": "ca-app-pub-4903005547536324/4431068594",
           "Inter": "ca-app-pub-4903005547536324/1750539714"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Short.Haircuts.Women.HairColor.Changer",
+          "Ban": "ca-app-pub-4903005547536324/8859492096",
+          "Inter": "ca-app-pub-4903005547536324/3415593721"
+        },
+        {
+          "PackageName": "com.mzpiceditor.NailsSalon.PhotoEditor.NailArt.Girl",
+          "Ban": "ca-app-pub-4903005547536324/3711107194",
+          "Inter": "ca-app-pub-4903005547536324/4641045484"
+        },
+        {
+          "PackageName": "com.mzpiceditor.mermaid.photoeditor.mermaidcostumes.camera",
+          "Ban": "ca-app-pub-4903005547536324/8360798648",
+          "Inter": "ca-app-pub-4903005547536324/8201194159"
+        },
+        {
+          "PackageName": "com.mzpiceditor.MakeMeOld.FaceChanger.oldface.maker",
+          "Ban": "ca-app-pub-4903005547536324/8308827755",
+          "Inter": "ca-app-pub-4903005547536324/2729375626"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Halloween.Hat.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/9430337738",
+          "Inter": "ca-app-pub-4903005547536324/6093905561"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Rainbow.Glitter.Sparkle.Camera.FilterEffect",
+          "Ban": "ca-app-pub-4903005547536324/2673357692",
+          "Inter": "ca-app-pub-4903005547536324/7734112682"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Emoji.Background.EmojiFace.Camera.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/1907070937",
+          "Inter": "ca-app-pub-4903005547536324/5654744252"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Neon.Hornsdevil.Crown.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/9019274195",
+          "Inter": "ca-app-pub-4903005547536324/9166597947"
+        },
+        {
+          "PackageName": "com.mzpiceditor.Scary.Clown.FaceMaker.Horror.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/8924739578",
+          "Inter": "ca-app-pub-4903005547536324/6298576238"
+        },
+        {
+          "PackageName": "com.mzpiceditor.MakeMeBald.Face.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/4027636113",
+          "Inter": "ca-app-pub-4903005547536324/2522982756"
+        },
+        {
+          "PackageName": "com.mzpiceditor.RamadanMubarak.Ramadan.Gif.PhotoFrames",
+          "Ban": "ca-app-pub-4903005547536324/8130532656",
+          "Inter": "ca-app-pub-4903005547536324/9004630624"
+        },
+        {
+          "PackageName": "com.mzpiceditor.vampire.Halloween.Makeup.PhotoEditor",
+          "Ban": "ca-app-pub-4903005547536324/4407087673",
+          "Inter": "ca-app-pub-4903005547536324/1589352645"
         }
       ]
     },
