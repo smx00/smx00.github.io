@@ -1,0 +1,18 @@
+{
+    
+    "Ads": [
+        {
+      "Network" : "Admob"     ,
+      "PubId" : "pub-3940256099942544" ,
+      "NetworkStats" : "Enable" , 
+            
+      "Apps" : [    
+          {
+        "PackageName" : "com.driving.codetest",     
+        "Ban" : "ca-app-pub-3940256099942544/6300978111",
+        "Inter" : "ca-app-pub-3940256099942544/1033173712"
+              }
+        ]
+        }
+    ]
+}
