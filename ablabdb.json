@@ -14,8 +14,13 @@
               },
           {
         "PackageName" : "com.ablab.us.driving.tests.dmv",     
-        "Ban" : "ca-app-pub-3940256099942544/6300978111",
-        "Inter" : "ca-app-pub-3940256099942544/1033173712"
+        "Ban" : "ca-app-pub-2190526449225641/2218436821",
+        "Inter" : "ca-app-pub-2190526449225641/9231579492"
+              },
+          {
+        "PackageName" : "com.ablab.driving.theory.test.uk",     
+        "Ban" : "ca-app-pub-2190526449225641/8349742664",
+        "Inter" : "ca-app-pub-2190526449225641/1643721756"
               }
         ]
         }
