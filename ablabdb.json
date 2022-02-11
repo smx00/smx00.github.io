@@ -21,6 +21,16 @@
         "PackageName" : "com.ablab.driving.theory.test.uk",     
         "Ban" : "ca-app-pub-2190526449225641/8349742664",
         "Inter" : "ca-app-pub-2190526449225641/1643721756"
+              },
+          {
+        "PackageName" : "com.ablab.g1.test.ontario.driving",     
+        "Ban" : "ca-app-pub-2190526449225641/9445441727",
+        "Inter" : "ca-app-pub-2190526449225641/3897601571"
+              },
+          {
+        "PackageName" : "com.ablab.canadian.driving.tests",     
+        "Ban" : "ca-app-pub-2190526449225641/7066690393",
+        "Inter" : "ca-app-pub-2190526449225641/7871493842"
               }
         ]
         }
