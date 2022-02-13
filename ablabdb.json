@@ -31,7 +31,13 @@
         "PackageName" : "com.ablab.canadian.driving.tests",     
         "Ban" : "ca-app-pub-2190526449225641/7066690393",
         "Inter" : "ca-app-pub-2190526449225641/7871493842"
+              },
+          {
+        "PackageName" : "com.ablab.coderoute.maroc.siya9a",     
+        "Ban" : "ca-app-pub-3940256099942544/6300978111",
+        "Inter" : "ca-app-pub-3940256099942544/1033173712"
               }
+    
         ]
         }
     ]
