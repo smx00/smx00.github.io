@@ -36,6 +36,41 @@
         "PackageName" : "com.ablab.rtatheorytest.uaedriving",     
         "Ban" : "ca-app-pub-2190526449225641/3638473472",
         "Inter" : "ca-app-pub-2190526449225641/5171224609"
+              },
+          {
+        "PackageName" : "com.ablab.nzdriving.theorytest",     
+        "Ban" : "ca-app-pub-2190526449225641/7336361123",
+        "Inter" : "ca-app-pub-2190526449225641/3780576720"
+              },
+          {
+        "PackageName" : "com.ablab.simulado.detran.cnh",     
+        "Ban" : "ca-app-pub-2190526449225641/4439052270",
+        "Inter" : "ca-app-pub-2190526449225641/5009580689"
+              },
+          {
+        "PackageName" : "com.ablab.australian.driving.test",     
+        "Ban" : "ca-app-pub-2190526449225641/8984979552",
+        "Inter" : "ca-app-pub-2190526449225641/2191845657"
+              },
+          {
+        "PackageName" : "com.ablab.quizpatente.b",     
+        "Ban" : "ca-app-pub-2190526449225641/9196554938",
+        "Inter" : "ca-app-pub-2190526449225641/7671897889"
+              },
+          {
+        "PackageName" : "com.ablab.codedelaroute.france",     
+        "Ban" : "ca-app-pub-2190526449225641/5257309924",
+        "Inter" : "ca-app-pub-2190526449225641/4434865617"
+              },
+          {
+        "PackageName" : "com.ablab.coderoute.maroc.siya9a",     
+        "Ban" : "ca-app-pub-2190526449225641/8318765146",
+        "Inter" : "ca-app-pub-2190526449225641/2439574894"
+              },
+          {
+        "PackageName" : "com.ablab.testesdecodigo",     
+        "Ban" : "ca-app-pub-2190526449225641/6761646051",
+        "Inter" : "ca-app-pub-2190526449225641/7580398542"
               }
     
         ]
