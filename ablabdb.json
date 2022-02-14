@@ -6,12 +6,7 @@
       "PubId" : "pub-3940256099942544" ,
       "NetworkStats" : "Enable" , 
             
-      "Apps" : [    
-          {
-        "PackageName" : "com.ablab.codedelaroute.france",     
-        "Ban" : "ca-app-pub-3940256099942544/6300978111",
-        "Inter" : "ca-app-pub-3940256099942544/1033173712"
-              },
+      "Apps" : [   
           {
         "PackageName" : "com.ablab.us.driving.tests.dmv",     
         "Ban" : "ca-app-pub-2190526449225641/2218436821",
@@ -33,9 +28,14 @@
         "Inter" : "ca-app-pub-2190526449225641/7871493842"
               },
           {
-        "PackageName" : "com.ablab.coderoute.maroc.siya9a",     
-        "Ban" : "ca-app-pub-3940256099942544/6300978111",
-        "Inter" : "ca-app-pub-3940256099942544/1033173712"
+        "PackageName" : "com.ablab.dallah.saudi.driving.license.ksa",     
+        "Ban" : "ca-app-pub-2190526449225641/6503992731",
+        "Inter" : "ca-app-pub-2190526449225641/4951555144"
+              },
+          {
+        "PackageName" : "com.ablab.rtatheorytest.uaedriving",     
+        "Ban" : "ca-app-pub-2190526449225641/3638473472",
+        "Inter" : "ca-app-pub-2190526449225641/5171224609"
               }
     
         ]
