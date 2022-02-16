@@ -81,6 +81,11 @@
         "PackageName" : "com.ablab.conducir.autoescuela.dgt.test",     
         "Ban" : "ca-app-pub-2190526449225641/9703535980",
         "Inter" : "ca-app-pub-2190526449225641/3138127631"
+              },
+          {
+        "PackageName" : "com.ablab.autotheorie.permis.conduire",     
+        "Ban" : "ca-app-pub-2190526449225641/6763152651",
+        "Inter" : "ca-app-pub-2190526449225641/8211965695"
               }
     
         ]
