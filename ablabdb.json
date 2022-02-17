@@ -96,6 +96,11 @@
         "PackageName" : "com.ablab.ifahrschule.osterreich",     
         "Ban" : "ca-app-pub-2190526449225641/8044444730",
         "Inter" : "ca-app-pub-2190526449225641/9217925605"
+              },
+          {
+        "PackageName" : "com.ablab.theorie.examen.nederland",     
+        "Ban" : "ca-app-pub-3940256099942544/6300978111",
+        "Inter" : "ca-app-pub-3940256099942544/1033173712"
               }
     
         ]
