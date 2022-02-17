@@ -86,6 +86,16 @@
         "PackageName" : "com.ablab.autotheorie.permis.conduire",     
         "Ban" : "ca-app-pub-2190526449225641/6763152651",
         "Inter" : "ca-app-pub-2190526449225641/8211965695"
+              },
+          {
+        "PackageName" : "com.ablab.ifahrschul.theorie.deutsch",     
+        "Ban" : "ca-app-pub-2190526449225641/8635966514",
+        "Inter" : "ca-app-pub-2190526449225641/2920605407"
+              },
+          {
+        "PackageName" : "com.ablab.ifahrschule.osterreich",     
+        "Ban" : "ca-app-pub-2190526449225641/8044444730",
+        "Inter" : "ca-app-pub-2190526449225641/9217925605"
               }
     
         ]
