@@ -101,6 +101,31 @@
         "PackageName" : "com.ablab.drivertheory.test.ireland.dtt",     
         "Ban" : "ca-app-pub-2190526449225641/5833779013",
         "Inter" : "ca-app-pub-2190526449225641/8512569782"
+              },
+          {
+        "PackageName" : "com.ablab.prawojazdy",     
+        "Ban" : "ca-app-pub-2190526449225641/9779389733",
+        "Inter" : "ca-app-pub-2190526449225641/8230466356"
+              },
+          {
+        "PackageName" : "com.ablab.takorkort.teori",     
+        "Ban" : "ca-app-pub-2190526449225641/8866080543",
+        "Inter" : "ca-app-pub-2190526449225641/3613753869"
+              },
+          {
+        "PackageName" : "com.ablab.kreszteszt",     
+        "Ban" : "ca-app-pub-2190526449225641/2830838001",
+        "Inter" : "ca-app-pub-2190526449225641/4121235926"
+              },
+          {
+        "PackageName" : "com.ablab.k53.southafrica",     
+        "Ban" : "ca-app-pub-2190526449225641/8099793788",
+        "Inter" : "ca-app-pub-2190526449225641/2447694628"
+              },
+          {
+        "PackageName" : "com.ablab.theorie.examen.nederland",     
+        "Ban" : "ca-app-pub-2190526449225641/8455017006",
+        "Inter" : "ca-app-pub-2190526449225641/9576526981"
               }
     
         ]
