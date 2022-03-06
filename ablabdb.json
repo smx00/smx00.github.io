@@ -126,6 +126,16 @@
         "PackageName" : "com.ablab.theorie.examen.nederland",     
         "Ban" : "ca-app-pub-2190526449225641/8455017006",
         "Inter" : "ca-app-pub-2190526449225641/9576526981"
+              },
+          {
+        "PackageName" : "com.ablab.codederoute.algerie",     
+        "Ban" : "ca-app-pub-2190526449225641/1997790995",
+        "Inter" : "ca-app-pub-2190526449225641/4999875774"
+              },
+          {
+        "PackageName" : "com.ablab.codederoute.tunisie",     
+        "Ban" : "ca-app-pub-2190526449225641/7079244200",
+        "Inter" : "ca-app-pub-2190526449225641/5821168704"
               }
     
         ]
