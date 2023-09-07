@@ -11,10 +11,8 @@
   {"name":"whatsapp","package_name":"com.whatsapp","icon":"https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-whatsapp-icon-social-media-png-image_6618452.png"}
    ],
 
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"download_dialog_txt":"download text from server",
+
   
 
 },
