@@ -1,18 +1,22 @@
 {"ads":{
-
-"more_apps_info":[
-  {"name":"tiktok","package_name":"com.zhiliaoapp.musically.go","icon":"https://cdn-icons-png.flaticon.com/512/3669/3669373.png"},
-  {"name":"Tinder","package_name":"com.tinder","icon":"https://cdn-icons-png.flaticon.com/512/2504/2504943.png"},
-  {"name":"whatsapp","package_name":"com.whatsapp","icon":"https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-whatsapp-icon-social-media-png-image_6618452.png"}
-   ],
-
   
 "yandex_banner":"R-M-2649647-1",
 "yandex_inter":"R-M-2649647-3",
 "yandex_native":"R-M-2649647-2",
 "yandex_reward":"R-M-2649647-4",
   
- 
+ "more_apps_info":[
+  {"name":"tiktok","package_name":"com.zhiliaoapp.musically.go","icon":"https://cdn-icons-png.flaticon.com/512/3669/3669373.png"},
+  {"name":"Tinder","package_name":"com.tinder","icon":"https://cdn-icons-png.flaticon.com/512/2504/2504943.png"},
+  {"name":"whatsapp","package_name":"com.whatsapp","icon":"https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-whatsapp-icon-social-media-png-image_6618452.png"}
+   ],
+
+"download_dialog_txt":"download text from server",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
+  
 
 },
   "my_data":[
